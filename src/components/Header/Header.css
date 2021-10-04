@@ -1,0 +1,23 @@
+
+.link {
+            text-decoration: none;
+           
+            padding: 8px 14px;
+            border-radius: 10px;
+            border: 2px solid #FBE184;
+            color:#FBE184;
+            
+}
+.link:hover{
+            color:black;
+            background-color: #FBE184;
+}
+.header-bg{
+            background-color:#7952B3;
+            /* position: fixed;
+            width: 100%; */
+            
+}
+.name{
+            color:#FBE184
+}
