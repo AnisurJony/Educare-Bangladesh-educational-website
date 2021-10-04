@@ -1,6 +1,6 @@
 # Educare Bangladesh
 
-# live website: 
+# live website: https://trusting-swartz-b47c70.netlify.app/
 
 This is an educational website for general people. We provide international level education. We have planty of student currently with satisfaction. Educare Bangladesh have future goal to build educational man power. Our Up comming focus on sustainablity that educational man power can bring back the world sustainable environment.
 
