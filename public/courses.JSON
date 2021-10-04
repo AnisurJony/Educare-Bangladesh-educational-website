@@ -1,7 +1,7 @@
 {
             "course": [
                         {
-                                    "title": "Computer Programming",
+                                    "title": "Programming",
                                     "code": "4131B",
                                     "price": 450,
                                     "grand": "yes",
@@ -106,7 +106,7 @@
                                     "description": "In these ways, Data Science is helping people in various socioeconomic and health sectors. Therefore, we realize the need for data and data scientists to help the world become a better place. We need to learn Data Science in order to create better solutions for real-world problems that people face today."
                         },
                         {
-                                    "title": "Artificial Intelligence",
+                                    "title": "AI",
                                     "code": "4131A",
                                     "price": 3420,
                                     "grand": "15%",

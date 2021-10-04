@@ -1,6 +1,6 @@
 
 import React, { useEffect, useState } from 'react';
-
+import './Home.css'
 
 import ServiceCategory from '../ServiceCategory/ServiceCategory';
 
@@ -21,7 +21,7 @@ const Home = () => {
                         <div className="">
                                     <div className="bg- ">
                                                 <div className='mt-5'>
-                                                            <h1 className="text-warning text-bold mt-5">Find Your Category</h1>
+                                                            <h1 className="header-text mt-5">Find Your Path</h1>
 
                                                 </div>
                                                 <div className="container">

@@ -1,0 +1,16 @@
+
+.right-container{
+         
+            margin:auto  ;
+} 
+
+.input-style{
+            width: auto;
+}
+.contact-btn{
+            padding: 4px 6px;
+            background-color:#7952B3;
+            color: white;
+            border-radius: 10px;
+            border: none;
+}
