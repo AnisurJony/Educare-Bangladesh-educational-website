@@ -1,7 +1,10 @@
 
 import React from 'react';
+
 import './ContactUs.css'
+
 const ContactUs = () => {
+
             return (
 
 
@@ -11,10 +14,13 @@ const ContactUs = () => {
                                     <h2 className="mt-3" style={{ color: '#7952B3' }}>Educare Bangladesh</h2>
 
                                     <div className="container">
+
                                                 <div className="row row-cols-2">
+
                                                             <div className="col-12 col-md-6">
 
                                                                         <div className="">
+                                                                                    {/* I willa add the image or icon in future updatet */}
                                                                                     <div>
                                                                                                 <img src="" alt="" />
                                                                                     </div>
@@ -26,6 +32,7 @@ const ContactUs = () => {
                                                                                     </div>
                                                                         </div>
                                                                         <div>
+                                                                                    {/* I willa add the image or icon in future updatet */}
                                                                                     <div>
                                                                                                 <img src="" alt="" />
                                                                                     </div>
@@ -38,6 +45,8 @@ const ContactUs = () => {
                                                                                     </div>
                                                                         </div>
                                                                         <div>
+
+                                                                                    {/* I willa add the image or icon in future updatet */}
                                                                                     <div>
                                                                                                 <img src="" alt="" />
                                                                                     </div>
@@ -49,9 +58,11 @@ const ContactUs = () => {
                                                                                     </div>
                                                                         </div>
                                                                         <div>
+                                                                                    {/* I willa add the image or icon in future updatet */}
                                                                                     <div>
                                                                                                 <img src="" alt="" />
                                                                                     </div>
+
                                                                                     <div>
                                                                                                 <h3>EMAIL</h3>
                                                                                                 <p>info@educarebd.com<br />
@@ -65,16 +76,26 @@ const ContactUs = () => {
 
                                                                         <div>
                                                                                     <h2 className="my-5">CONTACT US</h2>
+
                                                                                     <form action="">
+
                                                                                                 <h6>Your Name</h6>
                                                                                                 <input className="input-style" type="text" required placeholder="Full Name" />
+
                                                                                                 <br />
+
                                                                                                 <h6>Your Email</h6>
                                                                                                 <input className="input-style" type="email" required placeholder="info@gaiml.com" />
+
                                                                                                 <br />
+
                                                                                                 <h6>Your Message</h6>
                                                                                                 <textarea className="input-style" type="text" rows="6" cols="25" />
-                                                                                                <br />                                                                                <button type="button" className="contact-btn">Submit</button>
+
+                                                                                                <br />
+
+                                                                                                <button type="button" className="contact-btn">Submit</button>
+
                                                                                     </form>
                                                                         </div>
                                                             </div>

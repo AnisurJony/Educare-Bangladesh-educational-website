@@ -12,7 +12,9 @@ import Services from './components/services/Services';
 
 
 function App() {
+
   return (
+
     <div className="App">
 
       <Router>
@@ -28,21 +30,25 @@ function App() {
 
 
           </Route>
+
           <Route path="/services">
 
             <Services></Services>
 
           </Route>
+
           <Route path="/about">
 
             <About></About>
 
           </Route>
+
           <Route path="/blogs">
 
             <Blogs></Blogs>
 
           </Route>
+
           <Route path="/contact">
 
             <ContactUs></ContactUs>
@@ -54,6 +60,7 @@ function App() {
             <Home></Home>
 
           </Route>
+
           <Route path="/*">
 
             <NotFound></NotFound>
@@ -63,6 +70,7 @@ function App() {
         </Switch>
 
         <Footer></Footer>
+
       </Router>
 
     </div>

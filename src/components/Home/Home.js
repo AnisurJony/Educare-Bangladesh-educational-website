@@ -18,28 +18,28 @@ const Home = () => {
 
 
             return (
-                        <div className="">
-                                    <div className="bg- ">
-                                                <div className='mt-5'>
-                                                            <h1 className="header-text mt-5">Find Your Path</h1>
+
+                        <div>
+                                    <div className='mt-5'>
+                                                <h1 className="header-text mt-5">Find Your Path</h1>
+
+                                    </div>
+                                    <div className="container">
+                                                <div className="row row-cols-3">
+
+                                                            {
+                                                                        category.map(category => <ServiceCategory
+                                                                                    key={category.code}
+                                                                                    category={category}
+
+                                                                        ></ServiceCategory>)
+                                                            }
 
                                                 </div>
-                                                <div className="container">
-                                                            <div className="row row-cols-3">
+                                    </div>
 
-                                                                        {
-                                                                                    category.map(category => <ServiceCategory
-                                                                                                key={category.code}
-                                                                                                category={category}
+                        </div >
 
-                                                                                    ></ServiceCategory>)
-                                                                        }
-
-                                                            </div>
-                                                </div>
-
-                                    </div >
-                        </div>
             );
 };
 

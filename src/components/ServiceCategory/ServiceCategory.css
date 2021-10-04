@@ -1,3 +1,6 @@
+
+
+
 .category-btn{
             text-decoration: none;
             background-color: #7952B3;
@@ -6,14 +9,17 @@
             border-radius: 10px;
 }
 
+
 .category-card{
             background-color: wheat;
             border-radius: 20px;
 }
 
+
 .card-image{
             border-radius: 15px;
 }
+
 .card-title{
             color: #7952B3;
 }

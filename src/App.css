@@ -1,9 +1,8 @@
 .App {
   text-align: center;
  
-  
+ background-image: linear-gradient(to right,#b5d9fdf6,#dff9f4ef,#f1ecbfec, #e5d55bd0);
+ 
+  height: 1000px;
 }
 
-.front-area{
-  
-}
